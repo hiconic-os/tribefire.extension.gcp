@@ -33,7 +33,7 @@ You should have received a copy of the GNU Lesser General Public License along w
         <V.tribefire.setup.classic.env>[2.3,2.4)</V.tribefire.setup.classic.env>
         <V.com.google.cloud>2.6.1</V.com.google.cloud>
         <V.com.google.guava>27.1-jre</V.com.google.guava>
-        <V.javax.servlet>3.0.1</V.javax.servlet>
+        <V.javax.servlet>3.1.0</V.javax.servlet>
         <V.org.apache.commons>4.2</V.org.apache.commons>
     </properties>
     <licenses>
